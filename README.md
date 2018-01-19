@@ -6,6 +6,7 @@ a spider of baidu koubei，百度口碑爬虫
 初始化参数
 url 爬去的机构口碑页面
 https://koubei.baidu.com/s/76e0eb471cf9bd323fb1dc1717a2d451?tab=comt&page=
+
 startpage 开始页面
 endpage 结束页面
 header 爬去的头部
